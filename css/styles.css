@@ -161,7 +161,7 @@ textarea {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 170px;
+  width: 168px;
   height: 90px;
   fill: #afb1b8;
 }
@@ -966,8 +966,8 @@ textarea {
   width: 30px;
 }
 
-.icon-close:hover,
-.icon-close:focus {
+.modal-button-close:hover,
+.modal-button-close:focus {
   fill: var(--blue-text);
   cursor: pointer;
 
